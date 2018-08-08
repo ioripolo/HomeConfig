@@ -1,0 +1,15 @@
+set nu!
+set guifont=Luxi/Mono/10
+filetype on
+set history=1000
+set background=dark
+syntax on
+set autoindent
+set cindent
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set ai!
+set showmatch
+set ruler
+set backspace=2
